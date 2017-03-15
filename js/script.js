@@ -3,9 +3,9 @@
 var itemCounter = 0;
 var fps = 15;
 
-var money = 1000.50;
+var money = 5000.50;
 var currentCase = "case2";
-var acceptMoneyPerClick = 0.1;
+var acceptMoneyPerClick = 200;
 
 
 
@@ -21,7 +21,7 @@ var popup = true;
 var inventory = {};
 var jackpotInventory = {};
 
-var inventoryMax = 50;
+var inventoryMax = 100;
 var inventoryCurrent = 0;
 
 var keyPrice = 0;
