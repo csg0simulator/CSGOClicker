@@ -3,7 +3,7 @@
 var itemCounter = 0;
 var fps = 15;
 
-var money = 5000.50;
+var money = 50000.50;
 var currentCase = "case2";
 var acceptMoneyPerClick = 200;
 
