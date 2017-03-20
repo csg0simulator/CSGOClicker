@@ -169,7 +169,7 @@ var cases = {
       weap2: {
         name: "troll faic",
         price: 999.66,
-        img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVb2UAF5xf1fg2LJsAEEbvqrCe9QrBt6cYh81mLkCewN0UDCttoA"
+        img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0h-LmI7fUqWdY781lteXA54vwxlfn-xdqMG_ycY_AIQRraVjYqFm6xLrqjJLtupzMnHZluCN24HmIyhCpwUYbxnUlics"
       },
       weap3: {
         name: "SG 553 | Ultraviolet",
